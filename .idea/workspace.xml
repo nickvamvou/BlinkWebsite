@@ -2,8 +2,218 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff48d6a-9834-4ffe-bf04-1110a7ba94b2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg-pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/disk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/error.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/gift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/hands.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/loyalty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/mistakes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/orders.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/re.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/service.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/benefits-icons/table.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/devices.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/new-age.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/new-age.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/edition/gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/edition/rose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/sport/black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/sport/blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/sport/green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/sport/red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/sport/white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/watch/metal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/apple_watch/watch/steel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/device-mockups.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/device-mockups.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/device-mockups2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/device-mockups2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/imac/imac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad/ipad_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad/ipad_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad/ipad_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad/ipad_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_gray_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_gray_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_silver_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_silver_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_silver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_silver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_rose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_rose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia920/lumia920_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia920/lumia920_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_dark_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_dark_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_light_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_light_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/macbook/macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/macbook_2015/gold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/macbook_2015/grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/macbook_2015/silver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/nexus7/nexus7_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/nexus7/nexus7_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/nexus_6/nexus_6_land.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/nexus_6/nexus_6_port.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/samsung_tv/samsung_tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/device-mockups/surface/surface.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/app-store-badge.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg-cta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/check-in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/circle-Recovered.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/demo-screen-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/device-images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/device-images/previous.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/google-play-badge.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/log.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_retry.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/menu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tray-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tray.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/new-age.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/new-age.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/slick-carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/privacy_policy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_cta.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_download.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_features.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/new-age.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick-theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick-theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick/slick.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/popper/popper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/popper/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/less/simple-line-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/simple-line-icons/scss/simple-line-icons.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/app.js" afterPath="$PROJECT_DIR$/node/app.js" />
     </list>
     <ignored path="BlinkWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +235,12 @@
     <favorites_list name="BlinkWebsite" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/node/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
+            <state relative-caret-position="90">
+              <caret line="95" column="88" selection-start-line="95" selection-start-column="88" selection-end-line="95" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -41,16 +251,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node/views/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -82,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -101,6 +315,10 @@
               <option name="myItemId" value="BlinkWebsite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -112,12 +330,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,18 +428,18 @@
       <updated>1510235331446</updated>
       <workItem from="1510235332748" duration="225000" />
       <workItem from="1510236062702" duration="244000" />
-      <workItem from="1510251121339" duration="106000" />
+      <workItem from="1510251121339" duration="504000" />
+      <workItem from="1510252297885" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="575000" />
+    <option name="totallyTimeSpent" value="1216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -229,6 +452,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -251,26 +475,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/node/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
+        <state relative-caret-position="90">
+          <caret line="95" column="88" selection-start-line="95" selection-start-column="88" selection-end-line="95" selection-end-column="88" />
           <folding />
         </state>
       </provider>
