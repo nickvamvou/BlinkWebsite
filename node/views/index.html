@@ -227,7 +227,7 @@
               <h2>Request a Demo</h2>
               <h4>We will answer any questions you have and will drive you through the process of how to use BlinknEat at its full potential. There is no commitment by filling the form we will get back to you as soon as possible! </h4>
             </div>
-            <form action="mailto:info@blinkneat.com" method="post" id="takeoutForm">
+            <form id="takeoutForm">
               <input type="hidden" id="txtUrl" name="txtUrl" value="">
               <div class="col-md-6">
                 <div class="form-group">
@@ -259,19 +259,19 @@
                 </div>
               </div>
 
-              <div class="col-md-12">
-                <div class="button-content">
-                  <p>
-                    <button id="submit" type="submit" class="btn btn-primary btn-md">SUBMIT</button>
-                  </p>
-                </div>
-              </div>
+
             </form>
           </div>
-          <div id="form-messages" class="alert"></div>
+          <div class="col-md-12">
+            <div class="button-content">
+              <p>
+                <button id="submit"  class="btn btn-primary btn-md" onclick="sendMail()">SUBMIT</button>
+              </p>
+            </div>
+            <div id="form-messages" class="alert"></div>
+          </div>
         </article>
       </div>
-
 
     </div>
   </div>
@@ -347,7 +347,26 @@
 
 <script type="text/javascript" src="js/slick-carousel.js"></script>
 
+<script>
+  var sendMail = function()
+  {
+    var name = document.getElementById("name").value;
+    var city = document.getElementById("city").value;
+    var country = document.getElementById("country").value;
+    var restaurantName = document.getElementById("restaurant-name").value;
+    var email = document.getElementById("email").value;
+    var number = document.getElementById("phone-number").value;
+    if(name ==="" || city ==="" || country ==="" || restaurantName ==="" || email ==="" || number ==="")
+    {
+      alert("Please fill in all the fields");
+    }
+    else
+    {
+      location.href='mailto:info@blinkneat.com?subject=Request Demo&body=Hey, I am ' + name + ' from ' + city + ',' + country + '. I would like to request a demo for my restaurant \"' + restaurantName + '\". %0A%0ASincerely,%0A' + name + '%0AEmail:' + email + '%0APhone Number:' + number;
 
+    }
+  }
+</script>
 
 </body>
 </html>
